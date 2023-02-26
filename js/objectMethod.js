@@ -16,3 +16,4 @@ const student={
 student.exam();
 const waiver = student.waiver(5);
 console.log(waiver);
+
